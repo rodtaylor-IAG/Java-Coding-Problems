@@ -1,0 +1,51 @@
+
+y
+java:S1192"WDefine a constant instead of duplicating this literal "-- AFTER TEXT BLOCK --" 7 times.(ä¦É›ÿÿÿÿÿ8Ò¦Ù‚ 2
+z
+java:S1192"XDefine a constant instead of duplicating this literal "-- BEFORE TEXT BLOCK --" 7 times.(æøøÿÿÿÿ8Õ¦Ù‚ 2
+L	java:S106"+Replace this use of System.out by a logger.(ïæŒÓùÿÿÿÿ8Ö¦Ù‚ 2
+L
+java:S6212"/Declare this local variable with "var" instead.(›¹åù8Ø¦Ù‚ 2
+L	java:S106"+Replace this use of System.out by a logger.(æøøÿÿÿÿ8Ù¦Ù‚ 2
+k	java:S106"+Replace this use of System.out by a logger.(›î¶›ıÿÿÿÿJ$2df38812-0cec-4615-92ca-51d8e7ccf75c
+L	java:S106"+Replace this use of System.out by a logger.(ä¦É›ÿÿÿÿÿ8Ú¦Ù‚ 2
+L	java:S106"+Replace this use of System.out by a logger.(ò¬İâøÿÿÿÿ8Û¦Ù‚ 2
+T
+java:S6126"2Replace this String concatenation with Text block.(ò¬İâøÿÿÿÿ8Û¦Ù‚ 2
+L	java:S106"+Replace this use of System.out by a logger.(ØÛ£Ûÿÿÿÿÿ8Ü¦Ù‚ 2
+]	java:S125"<This block of commented-out lines of code should be removed.(¿ŠÅÿÿÿÿÿ8İ¦Ù‚ 2
+L
+java:S6212 "/Declare this local variable with "var" instead.(ÊôàÁ8İ¦Ù‚ 2
+L	java:S106("+Replace this use of System.out by a logger.(æøøÿÿÿÿ8Ş¦Ù‚ 2
+k	java:S106)"+Replace this use of System.out by a logger.(•åà¤øÿÿÿÿJ$affaea09-0762-47bf-8e88-fc7ad471083a
+L	java:S106*"+Replace this use of System.out by a logger.(ä¦É›ÿÿÿÿÿ8ß¦Ù‚ 2
+G	java:S106,"+Replace this use of System.out by a logger.(Œ±‰ƒ8ß¦Ù‚ 2
+L
+java:S6212-"/Declare this local variable with "var" instead.(±û¶8à¦Ù‚ 2
+L	java:S1065"+Replace this use of System.out by a logger.(æøøÿÿÿÿ8à¦Ù‚ 2
+k	java:S1066"+Replace this use of System.out by a logger.(›ì†ÆùÿÿÿÿJ$e5448c51-6e02-423a-97fa-60736fe0b05b
+L	java:S1067"+Replace this use of System.out by a logger.(ä¦É›ÿÿÿÿÿ8á¦Ù‚ 2
+F	java:S1069"+Replace this use of System.out by a logger.(ùÅ&8â¦Ù‚ 2
+L
+java:S6212:"/Declare this local variable with "var" instead.(£à—™8â¦Ù‚ 2
+k	java:S106C"+Replace this use of System.out by a logger.(æøøÿÿÿÿJ$615a802b-6a0f-4130-9e2c-2089e6378daa
+k	java:S106D"+Replace this use of System.out by a logger.(¸Ó¹øüÿÿÿÿJ$e03c4432-4fce-4dc4-8f67-1cb2e894e49d
+L	java:S106E"+Replace this use of System.out by a logger.(ä¦É›ÿÿÿÿÿ8ã¦Ù‚ 2
+G	java:S106G"+Replace this use of System.out by a logger.(°©§½8ä¦Ù‚ 2
+L
+java:S6212H"/Declare this local variable with "var" instead.(–¯È§8ä¦Ù‚ 2
+L	java:S106Q"+Replace this use of System.out by a logger.(æøøÿÿÿÿ8å¦Ù‚ 2
+f	java:S106R"+Replace this use of System.out by a logger.(­‹ëêJ$4371f168-6f59-4a88-b2a2-a28dd2cf4be3
+L	java:S106S"+Replace this use of System.out by a logger.(ä¦É›ÿÿÿÿÿ8æ¦Ù‚ 2
+L	java:S106U"+Replace this use of System.out by a logger.(àÆ¿öøÿÿÿÿ8æ¦Ù‚ 2
+L
+java:S6212V"/Declare this local variable with "var" instead.(µ‰¨Ú8ç¦Ù‚ 2
+L	java:S106_"+Replace this use of System.out by a logger.(æøøÿÿÿÿ8ç¦Ù‚ 2
+f	java:S106`"+Replace this use of System.out by a logger.(èĞ„¹J$8d4d03c4-1926-4924-be4e-141ef3211c84
+L	java:S106a"+Replace this use of System.out by a logger.(ä¦É›ÿÿÿÿÿ8è¦Ù‚ 2
+L	java:S106c"+Replace this use of System.out by a logger.(—¹†³ıÿÿÿÿ8é¦Ù‚ 2
+j
+java:S6212d"/Declare this local variable with "var" instead.(ëü•AJ$ccc6314a-2a61-4b67-bc96-f60dc095b991
+L	java:S106m"+Replace this use of System.out by a logger.(æøøÿÿÿÿ8é¦Ù‚ 2
+f	java:S106n"+Replace this use of System.out by a logger.(ˆ×ùãJ$01d77fce-a966-49e7-8c47-c54f797982d5
+L	java:S106o"+Replace this use of System.out by a logger.(ä¦É›ÿÿÿÿÿ8ê¦Ù‚ 2

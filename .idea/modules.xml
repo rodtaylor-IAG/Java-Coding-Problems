@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P01_TextBlockSQLJSONHTML/P01_TextBlockSQLJSONHTML.iml" filepath="$PROJECT_DIR$/Chapter01/P01_TextBlockSQLJSONHTML/P01_TextBlockSQLJSONHTML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P02_TextBlockDelimiters/P02_TextBlockDelimiters.iml" filepath="$PROJECT_DIR$/Chapter01/P02_TextBlockDelimiters/P02_TextBlockDelimiters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P03_TextBlockIndentation/P03_TextBlockIndentation.iml" filepath="$PROJECT_DIR$/Chapter01/P03_TextBlockIndentation/P03_TextBlockIndentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P04_TextBlockRemovingIncidentalWhiteSpace/P04_TextBlockRemovingIncidentalWhiteSpace.iml" filepath="$PROJECT_DIR$/Chapter01/P04_TextBlockRemovingIncidentalWhiteSpace/P04_TextBlockRemovingIncidentalWhiteSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P05_TextBlockJustForReadability/P05_TextBlockJustForReadability.iml" filepath="$PROJECT_DIR$/Chapter01/P05_TextBlockJustForReadability/P05_TextBlockJustForReadability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P06_TextBlockEscaping/P06_TextBlockEscaping.iml" filepath="$PROJECT_DIR$/Chapter01/P06_TextBlockEscaping/P06_TextBlockEscaping.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P07_TextBlockTranslateEscapes/P07_TextBlockTranslateEscapes.iml" filepath="$PROJECT_DIR$/Chapter01/P07_TextBlockTranslateEscapes/P07_TextBlockTranslateEscapes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P08_TextBlockEmbeddedExpressions/P08_TextBlockEmbeddedExpressions.iml" filepath="$PROJECT_DIR$/Chapter01/P08_TextBlockEmbeddedExpressions/P08_TextBlockEmbeddedExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P08_TextBlockEmbeddedExpressionsBenchmark/P08_TextBlockEmbeddedExpressionsBenchmark.iml" filepath="$PROJECT_DIR$/Chapter01/P08_TextBlockEmbeddedExpressionsBenchmark/P08_TextBlockEmbeddedExpressionsBenchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P10_TextBlockStringLiteralIntermix/P10_TextBlockStringLiteralIntermix.iml" filepath="$PROJECT_DIR$/Chapter01/P10_TextBlockStringLiteralIntermix/P10_TextBlockStringLiteralIntermix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P11_RegexNamedGroups/P11_RegexNamedGroups.iml" filepath="$PROJECT_DIR$/Chapter01/P11_RegexNamedGroups/P11_RegexNamedGroups.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P12_TextBlockIsomorphic/P12_TextBlockIsomorphic.iml" filepath="$PROJECT_DIR$/Chapter01/P12_TextBlockIsomorphic/P12_TextBlockIsomorphic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P13_StringConcatJDK11/P13_StringConcatJDK11.iml" filepath="$PROJECT_DIR$/Chapter01/P13_StringConcatJDK11/P13_StringConcatJDK11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P13_StringConcatJDK11Benchmark/P13_StringConcatJDK11Benchmark.iml" filepath="$PROJECT_DIR$/Chapter01/P13_StringConcatJDK11Benchmark/P13_StringConcatJDK11Benchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P13_StringConcatJDK8/P13_StringConcatJDK8.iml" filepath="$PROJECT_DIR$/Chapter01/P13_StringConcatJDK8/P13_StringConcatJDK8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P13_StringConcatJDK8Benchmark/P13_StringConcatJDK8Benchmark.iml" filepath="$PROJECT_DIR$/Chapter01/P13_StringConcatJDK8Benchmark/P13_StringConcatJDK8Benchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P14_IntegerToStringBenchmark/P14_IntegerToStringBenchmark.iml" filepath="$PROJECT_DIR$/Chapter01/P14_IntegerToStringBenchmark/P14_IntegerToStringBenchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P15_BuiltinStringTemplate/P15_BuiltinStringTemplate.iml" filepath="$PROJECT_DIR$/Chapter01/P15_BuiltinStringTemplate/P15_BuiltinStringTemplate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor1/P16_CustomTemplateProcessor1.iml" filepath="$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor1/P16_CustomTemplateProcessor1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor2/P16_CustomTemplateProcessor2.iml" filepath="$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor2/P16_CustomTemplateProcessor2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor3/P16_CustomTemplateProcessor3.iml" filepath="$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor3/P16_CustomTemplateProcessor3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor4/P16_CustomTemplateProcessor4.iml" filepath="$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor4/P16_CustomTemplateProcessor4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor5/P16_CustomTemplateProcessor5.iml" filepath="$PROJECT_DIR$/Chapter01/P16_CustomTemplateProcessor5/P16_CustomTemplateProcessor5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P17_LocaleOf/P17_LocaleOf.iml" filepath="$PROJECT_DIR$/Chapter01/P17_LocaleOf/P17_LocaleOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P18_LocaleCurrency/P18_LocaleCurrency.iml" filepath="$PROJECT_DIR$/Chapter01/P18_LocaleCurrency/P18_LocaleCurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P18_LocaleOfLocalizedDate/P18_LocaleOfLocalizedDate.iml" filepath="$PROJECT_DIR$/Chapter01/P18_LocaleOfLocalizedDate/P18_LocaleOfLocalizedDate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P19_UsingStrictfpClass/P19_UsingStrictfpClass.iml" filepath="$PROJECT_DIR$/Chapter01/P19_UsingStrictfpClass/P19_UsingStrictfpClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P19_UsingStrictfpInterface/P19_UsingStrictfpInterface.iml" filepath="$PROJECT_DIR$/Chapter01/P19_UsingStrictfpInterface/P19_UsingStrictfpInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P19_UsingStrictfpInterfaceReflection/P19_UsingStrictfpInterfaceReflection.iml" filepath="$PROJECT_DIR$/Chapter01/P19_UsingStrictfpInterfaceReflection/P19_UsingStrictfpInterfaceReflection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P20_MathAbsoluteValueOperationOverflow/P20_MathAbsoluteValueOperationOverflow.iml" filepath="$PROJECT_DIR$/Chapter01/P20_MathAbsoluteValueOperationOverflow/P20_MathAbsoluteValueOperationOverflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P21_MathQuotientOperationOverflow/P21_MathQuotientOperationOverflow.iml" filepath="$PROJECT_DIR$/Chapter01/P21_MathQuotientOperationOverflow/P21_MathQuotientOperationOverflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P22_ValueNextAlgebraicQuotient/P22_ValueNextAlgebraicQuotient.iml" filepath="$PROJECT_DIR$/Chapter01/P22_ValueNextAlgebraicQuotient/P22_ValueNextAlgebraicQuotient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P23_GetDoubleParts/P23_GetDoubleParts.iml" filepath="$PROJECT_DIR$/Chapter01/P23_GetDoubleParts/P23_GetDoubleParts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P24_DoubleIsInteger/P24_DoubleIsInteger.iml" filepath="$PROJECT_DIR$/Chapter01/P24_DoubleIsInteger/P24_DoubleIsInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P24_DoubleIsIntegerBenchmark/P24_DoubleIsIntegerBenchmark.iml" filepath="$PROJECT_DIR$/Chapter01/P24_DoubleIsIntegerBenchmark/P24_DoubleIsIntegerBenchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P25_MultiplyHigh/P25_MultiplyHigh.iml" filepath="$PROJECT_DIR$/Chapter01/P25_MultiplyHigh/P25_MultiplyHigh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P26_FloorCeilModulus/P26_FloorCeilModulus.iml" filepath="$PROJECT_DIR$/Chapter01/P26_FloorCeilModulus/P26_FloorCeilModulus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P27_CountPrimeNumbers/P27_CountPrimeNumbers.iml" filepath="$PROJECT_DIR$/Chapter01/P27_CountPrimeNumbers/P27_CountPrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P27_PrimeFactors/P27_PrimeFactors.iml" filepath="$PROJECT_DIR$/Chapter01/P27_PrimeFactors/P27_PrimeFactors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P28_SquareRootBabylonian/P28_SquareRootBabylonian.iml" filepath="$PROJECT_DIR$/Chapter01/P28_SquareRootBabylonian/P28_SquareRootBabylonian.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P29_RoundFloatNumber/P29_RoundFloatNumber.iml" filepath="$PROJECT_DIR$/Chapter01/P29_RoundFloatNumber/P29_RoundFloatNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P30_ClampingBetweenMinMax/P30_ClampingBetweenMinMax.iml" filepath="$PROJECT_DIR$/Chapter01/P30_ClampingBetweenMinMax/P30_ClampingBetweenMinMax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P31_MulitplyTwoIntegers/P31_MulitplyTwoIntegers.iml" filepath="$PROJECT_DIR$/Chapter01/P31_MulitplyTwoIntegers/P31_MulitplyTwoIntegers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P32_UsingTau/P32_UsingTau.iml" filepath="$PROJECT_DIR$/Chapter01/P32_UsingTau/P32_UsingTau.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P33_PRNGFindAll/P33_PRNGFindAll.iml" filepath="$PROJECT_DIR$/Chapter01/P33_PRNGFindAll/P33_PRNGFindAll.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P33_PRNGFindByProperty/P33_PRNGFindByProperty.iml" filepath="$PROJECT_DIR$/Chapter01/P33_PRNGFindByProperty/P33_PRNGFindByProperty.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P33_PRNGSelectViaOf/P33_PRNGSelectViaOf.iml" filepath="$PROJECT_DIR$/Chapter01/P33_PRNGSelectViaOf/P33_PRNGSelectViaOf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P34_FillArrayRandomData/P34_FillArrayRandomData.iml" filepath="$PROJECT_DIR$/Chapter01/P34_FillArrayRandomData/P34_FillArrayRandomData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P35_InfiniteStreamOfRndGenerators/P35_InfiniteStreamOfRndGenerators.iml" filepath="$PROJECT_DIR$/Chapter01/P35_InfiniteStreamOfRndGenerators/P35_InfiniteStreamOfRndGenerators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P36_LegacyRndFromRandomGenerator/P36_LegacyRndFromRandomGenerator.iml" filepath="$PROJECT_DIR$/Chapter01/P36_LegacyRndFromRandomGenerator/P36_LegacyRndFromRandomGenerator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter01/P37_ThreadSafeRandomGenerator/P37_ThreadSafeRandomGenerator.iml" filepath="$PROJECT_DIR$/Chapter01/P37_ThreadSafeRandomGenerator/P37_ThreadSafeRandomGenerator.iml" />
+    </modules>
+  </component>
+</project>

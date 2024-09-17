@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="P01_TextBlockSQLJSONHTML" target="21" />
+      <module name="P02_TextBlockDelimiters" target="21" />
+      <module name="P03_TextBlockIndentation" target="21" />
+      <module name="P04_TextBlockRemovingIncidentalWhiteSpace" target="21" />
+      <module name="P05_TextBlockJustForReadability" target="21" />
+      <module name="P06_TextBlockEscaping" target="21" />
+      <module name="P07_TextBlockTranslateEscapes" target="21" />
+      <module name="P08_TextBlockEmbeddedExpressions" target="21" />
+      <module name="P08_TextBlockEmbeddedExpressionsBenchmark" target="21" />
+      <module name="P100_GenericRecords" target="21" />
+      <module name="P101_UnconditionalPatternRecords" target="21" />
+      <module name="P102_StrShortener" target="21" />
+      <module name="P103_UnamedVariables" target="21" />
+      <module name="P103_UnnamedPatternsInstanceof" target="21" />
+      <module name="P103_UnnamedPatternSwitch1" target="21" />
+      <module name="P103_UnnamedPatternSwitch2" target="21" />
+      <module name="P104_JavaRecordsDependencyInjection" target="19" />
+      <module name="P104_JavaRecordsInConfigs" target="19" />
+      <module name="P104_JavaRecordsInControllers" target="19" />
+      <module name="P104_JavaRecordsInTemplates" target="19" />
+      <module name="P105_DtoRecordConstructor" target="19" />
+      <module name="P105_DtoRecordConstructorExpression" target="19" />
+      <module name="P105_DtoRecordJbcTemplate" target="19" />
+      <module name="P105_DtoRecordResultTransformer" target="19" />
+      <module name="P105_RecordAndEmbeddables" target="19" />
+      <module name="P106_RecordAndjOOQMultiset" target="19" />
+      <module name="P106_RecordAndjOOQMultisetAgg" target="19" />
+      <module name="P108_VectorTerminology" target="21" />
+      <module name="P109_SimpleSummingArrays" target="21" />
+      <module name="P109_SummingArrays" target="21" />
+      <module name="P10_TextBlockStringLiteralIntermix" target="21" />
+      <module name="P110_SummingArraysUnrolled" target="21" />
+      <module name="P111_BenchmarkVectors" target="21" />
+      <module name="P112_VectorApiAndFma" target="21" />
+      <module name="P113_MultiplyingMatricesVectorApi" target="21" />
+      <module name="P114_NegativeEffectVectorApi" target="21" />
+      <module name="P115_FactoryMethodsForCollections" target="21" />
+      <module name="P116_StreamToList" target="21" />
+      <module name="P117_newHashMap" target="21" />
+      <module name="P118_SequencedCollectionsAddFirstLast" target="21" />
+      <module name="P118_SequencedCollectionsGetFirstLast" target="21" />
+      <module name="P118_SequencedCollectionsRemove" target="21" />
+      <module name="P118_SequencedCollectionsReverse" target="21" />
+      <module name="P119_TheRopeDS" target="21" />
+      <module name="P11_RegexNamedGroups" target="21" />
+      <module name="P120_TheSkipListDS" target="21" />
+      <module name="P121_TheKDTreeDS" target="21" />
+      <module name="P122_TheZipperDS" target="21" />
+      <module name="P123_TheBinomialHeapDS" target="21" />
+      <module name="P124_TheFibonacciHeapDS" target="21" />
+      <module name="P125_ThePairingHeapDS" target="21" />
+      <module name="P126_TheHuffmanCodingDS" target="21" />
+      <module name="P127_TheSplayTreeDS" target="21" />
+      <module name="P128_TheIntervalTreeDS" target="21" />
+      <module name="P129_TheUnrolledLinkedListDS_1" target="21" />
+      <module name="P129_TheUnrolledLinkedListDS_2" target="21" />
+      <module name="P12_TextBlockIsomorphic" target="21" />
+      <module name="P130_NestedLoopJoin" target="21" />
+      <module name="P131_ObjectToByteArraySer" target="21" />
+      <module name="P132_ObjectToStringSer" target="21" />
+      <module name="P133_ObjectToXML" target="21" />
+      <module name="P135_PatternBasedStreamGlobalFilter" target="21" />
+      <module name="P135_PatternBasedStreamSpecificFilter" target="21" />
+      <module name="P136_CustomClassFilter" target="21" />
+      <module name="P137_CustomMethodFilter1" target="21" />
+      <module name="P137_CustomMethodFilter2" target="21" />
+      <module name="P138_CustomLambdaFilter" target="21" />
+      <module name="P139_DeserializationStackOverflowError" target="21" />
+      <module name="P13_StringConcatJDK11" target="11" />
+      <module name="P13_StringConcatJDK11Benchmark" target="11" />
+      <module name="P13_StringConcatJDK8" target="1.8" />
+      <module name="P13_StringConcatJDK8Benchmark" target="1.8" />
+      <module name="P140_DeserializationDoS" target="21" />
+      <module name="P141_JDK17CustomFilter" target="17" />
+      <module name="P142_JDK17CustomFilterFactory" target="17" />
+      <module name="P143_MonitoringDeserializationJfr" target="21" />
+      <module name="P144_EngagingJNI" target="20" />
+      <module name="P144_EngagingJNI (1)" target="21" />
+      <module name="P144_EngagingJNI (2)" target="22" />
+      <module name="P145_EngagingJNA" target="20" />
+      <module name="P145_EngagingJNA (1)" target="21" />
+      <module name="P145_EngagingJNA (2)" target="22" />
+      <module name="P146_EngagingJNR" target="20" />
+      <module name="P146_EngagingJNR (1)" target="21" />
+      <module name="P146_EngagingJNR (2)" target="22" />
+      <module name="P149_ArenaMemorySegment" target="20" />
+      <module name="P149_ArenaMemorySegment (1)" target="21" />
+      <module name="P149_ArenaMemorySegment (2)" target="22" />
+      <module name="P14_IntegerToStringBenchmark" target="21" />
+      <module name="P150_MemorySegmentAndArray" target="20" />
+      <module name="P150_MemorySegmentAndArray (1)" target="21" />
+      <module name="P150_MemorySegmentAndArray (2)" target="22" />
+      <module name="P151_MemorySegmentAndAddress" target="20" />
+      <module name="P151_MemorySegmentAndAddress (1)" target="21" />
+      <module name="P151_MemorySegmentAndAddress (2)" target="22" />
+      <module name="P152_IntroSequenceLayout" target="20" />
+      <module name="P152_IntroSequenceLayout (1)" target="21" />
+      <module name="P152_IntroSequenceLayout (2)" target="22" />
+      <module name="P153_MemorySegmentAndStruct" target="20" />
+      <module name="P153_MemorySegmentAndStruct (1)" target="21" />
+      <module name="P153_MemorySegmentAndStruct (2)" target="22" />
+      <module name="P154_MemorySegmentAndUnion" target="20" />
+      <module name="P154_MemorySegmentAndUnion (1)" target="21" />
+      <module name="P154_MemorySegmentAndUnion (2)" target="22" />
+      <module name="P155_IntroPaddingLayout" target="20" />
+      <module name="P155_IntroPaddingLayout (1)" target="21" />
+      <module name="P155_IntroPaddingLayout (2)" target="22" />
+      <module name="P156_CopyingSlicingMemorySegments" target="20" />
+      <module name="P156_CopyingSlicingMemorySegments (1)" target="21" />
+      <module name="P156_CopyingSlicingMemorySegments (2)" target="22" />
+      <module name="P157_WorkingWithSlicingAllocator" target="20" />
+      <module name="P157_WorkingWithSlicingAllocator (1)" target="21" />
+      <module name="P157_WorkingWithSlicingAllocator (2)" target="22" />
+      <module name="P158_IntroSliceHandle" target="20" />
+      <module name="P158_IntroSliceHandle (1)" target="21" />
+      <module name="P158_IntroSliceHandle (2)" target="22" />
+      <module name="P159_IntroLayoutFlatenning" target="20" />
+      <module name="P159_IntroLayoutFlatenning (1)" target="21" />
+      <module name="P159_IntroLayoutFlatenning (2)" target="22" />
+      <module name="P15_BuiltinStringTemplate" target="21" />
+      <module name="P160_IntroLayoutReshaping" target="20" />
+      <module name="P160_IntroLayoutReshaping (1)" target="21" />
+      <module name="P160_IntroLayoutReshaping (2)" target="22" />
+      <module name="P161_IntroLayoutSpreader" target="20" />
+      <module name="P161_IntroLayoutSpreader (1)" target="21" />
+      <module name="P161_IntroLayoutSpreader (2)" target="22" />
+      <module name="P162_IntroMemorySegmentViewVarHandle" target="20" />
+      <module name="P162_IntroMemorySegmentViewVarHandle (1)" target="21" />
+      <module name="P162_IntroMemorySegmentViewVarHandle (2)" target="22" />
+      <module name="P163_StreamingMemorySegment" target="20" />
+      <module name="P163_StreamingMemorySegment (1)" target="21" />
+      <module name="P163_StreamingMemorySegment (2)" target="22" />
+      <module name="P164_ArenaMappedMemorySegment" target="20" />
+      <module name="P164_ArenaMappedMemorySegment (1)" target="21" />
+      <module name="P164_ArenaMappedMemorySegment (2)" target="22" />
+      <module name="P164_MappedMemorySegment" target="20" />
+      <module name="P164_MappedMemorySegment (1)" target="21" />
+      <module name="P164_MappedMemorySegment (2)" target="22" />
+      <module name="P165_CallingGetpid" target="20" />
+      <module name="P165_CallingGetpid (1)" target="21" />
+      <module name="P165_CallingGetpid (2)" target="22" />
+      <module name="P166_CallingSumTwoInt" target="20" />
+      <module name="P166_CallingSumTwoInt (1)" target="21" />
+      <module name="P166_CallingSumTwoInt (2)" target="22" />
+      <module name="P167_CallingModf" target="20" />
+      <module name="P167_CallingModf (1)" target="21" />
+      <module name="P167_CallingModf (2)" target="22" />
+      <module name="P168_CallingStrcat" target="20" />
+      <module name="P168_CallingStrcat (1)" target="21" />
+      <module name="P168_CallingStrcat (2)" target="22" />
+      <module name="P169_CallingBsearch" target="20" />
+      <module name="P169_CallingBsearch (1)" target="21" />
+      <module name="P16_CustomTemplateProcessor1" target="21" />
+      <module name="P16_CustomTemplateProcessor2" target="21" />
+      <module name="P16_CustomTemplateProcessor3" target="21" />
+      <module name="P16_CustomTemplateProcessor4" target="21" />
+      <module name="P16_CustomTemplateProcessor5" target="21" />
+      <module name="P171_JextractAndModf" target="20" />
+      <module name="P171_JextractAndModf (1)" target="21" />
+      <module name="P172_ElectricPanelHierarchy" target="21" />
+      <module name="P173_ClosedElectricPanelHierarchy" target="21" />
+      <module name="P174_SealedHierarchySameSourceFile" target="21" />
+      <module name="P175_SealedHierarchySeparatePackages" target="21" />
+      <module name="P175_SealedHierarchySeparateSources" target="21" />
+      <module name="P176_SealedElectricPanelHierarchy" target="21" />
+      <module name="P177_SealedFuelHierarchyWithRecords" target="21" />
+      <module name="P178_SealedClassesCastConvInstanceof1" target="21" />
+      <module name="P178_SealedClassesCastConvInstanceof2" target="21" />
+      <module name="P178_SealedClassesCastConvInstanceof3" target="21" />
+      <module name="P179_SealedClassesAndSwitch" target="21" />
+      <module name="P179_SealedClassesSwitchBinTree" target="21" />
+      <module name="P17_LocaleOf" target="21" />
+      <module name="P180_SealedClassesAndVisitorPattern1" target="21" />
+      <module name="P180_SealedClassesAndVisitorPattern2" target="21" />
+      <module name="P181_SealedClassesAndReflection" target="21" />
+      <module name="P184_HiddenClasses" target="21" />
+      <module name="P185_MapMulti1" target="21" />
+      <module name="P185_MapMulti2" target="21" />
+      <module name="P186_StreamMapCustomMap" target="21" />
+      <module name="P187_LambdaVsMethodReference" target="21" />
+      <module name="P188_LambdaLaziness" target="21" />
+      <module name="P189_LambdaLazinessDysfunctional" target="21" />
+      <module name="P189_LambdaLazinessFunctional" target="21" />
+      <module name="P189_LambdaLazinessImperative" target="21" />
+      <module name="P18_LocaleCurrency" target="21" />
+      <module name="P18_LocaleOfLocalizedDate" target="21" />
+      <module name="P190_StringToArrayOfType" target="21" />
+      <module name="P191_ApplyMultiplePredicates" target="21" />
+      <module name="P192_FilterNestedCollection" target="21" />
+      <module name="P193_UsingBiPredicate" target="21" />
+      <module name="P194_BuildCustomPredicate" target="21" />
+      <module name="P195_BuildCustomPredicateMap" target="21" />
+      <module name="P196_LoggingPredicate" target="21" />
+      <module name="P197_ImplementingContainsAllAny1" target="21" />
+      <module name="P197_ImplementingContainsAllAny2" target="21" />
+      <module name="P198_ImplementingRemoveRetainAll1" target="21" />
+      <module name="P198_ImplementingRemoveRetainAll2" target="21" />
+      <module name="P199_StreamComparators" target="21" />
+      <module name="P19_UsingStrictfpClass" target="14" />
+      <module name="P19_UsingStrictfpInterface" target="14" />
+      <module name="P19_UsingStrictfpInterfaceReflection" target="14" />
+      <module name="P200_CustomSortedComparator" target="21" />
+      <module name="P201_FilteringMap" target="21" />
+      <module name="P202_CustomCollectorOf" target="21" />
+      <module name="P203_StreamAndCheckedException" target="21" />
+      <module name="P204_StreamDistinctBy" target="21" />
+      <module name="P205_CollectorSkipKeepItems" target="21" />
+      <module name="P206_FunctionWith5Args" target="21" />
+      <module name="P207_ConsumerWith5Args" target="21" />
+      <module name="P208_FunctionApplyOnly" target="21" />
+      <module name="P20_MathAbsoluteValueOperationOverflow" target="21" />
+      <module name="P210_UnstructuredConcurrencySample" target="21" />
+      <module name="P211_HowManyThreadsCreate" target="21" />
+      <module name="P211_IntroCheckVirtualThread" target="21" />
+      <module name="P211_IntroStartVirtualThread" target="21" />
+      <module name="P211_IntroStartVirtualThreadBuilder" target="21" />
+      <module name="P211_IntroUnstartedVirtualThread" target="21" />
+      <module name="P211_IntroVirtualThreadFactory" target="21" />
+      <module name="P212_IntroNewVirtualThreadPerTaskExecutor" target="21" />
+      <module name="P213_VirtualThreadForkJoinPool" target="21" />
+      <module name="P214_VirtualThreadsAndSyncCode1" target="21" />
+      <module name="P214_VirtualThreadsAndSyncCode2" target="21" />
+      <module name="P215_ContextSwitching1" target="21" />
+      <module name="P215_ContextSwitching2" target="21" />
+      <module name="P215_ContextSwitching3" target="21" />
+      <module name="P216_NewVirtualThreadPerTaskExecutorInvokeAllAny" target="21" />
+      <module name="P217_InvokeAllOnSuccess" target="21" />
+      <module name="P217_InvokeAnyOnSuccess" target="21" />
+      <module name="P218_HookingTaskState" target="21" />
+      <module name="P219_NewVirtualThreadPerTaskExecutorStream1" target="21" />
+      <module name="P219_NewVirtualThreadPerTaskExecutorStream2" target="21" />
+      <module name="P21_MathQuotientOperationOverflow" target="21" />
+      <module name="P220_IntroStructuredTaskScope" target="21" />
+      <module name="P221_IntroStructuredTaskScopeOnSuccess1" target="21" />
+      <module name="P221_IntroStructuredTaskScopeOnSuccess2" target="21" />
+      <module name="P222_IntroStructuredTaskScopeOnFailure1" target="21" />
+      <module name="P222_IntroStructuredTaskScopeOnFailure2" target="21" />
+      <module name="P223_StructuredTaskScopeStream1" target="21" />
+      <module name="P223_StructuredTaskScopeStream2" target="21" />
+      <module name="P224_MonitoringVirtualThreadsJfr1" target="21" />
+      <module name="P224_MonitoringVirtualThreadsJfr2" target="21" />
+      <module name="P224_MonitoringVirtualThreadsJmx1" target="21" />
+      <module name="P224_MonitoringVirtualThreadsJmx2" target="21" />
+      <module name="P224_MonitoringVirtualThreadsJmx3" target="21" />
+      <module name="P224_MonitoringVirtualThreadsJmx4" target="21" />
+      <module name="P225_SimpleVirtualThreadContinuations" target="21" />
+      <module name="P227_ExtendStructuredTaskScope" target="21" />
+      <module name="P228_AssembleStructuredTaskScope" target="21" />
+      <module name="P229_AssembleStructuredTaskScopeTimeout" target="21" />
+      <module name="P22_ValueNextAlgebraicQuotient" target="21" />
+      <module name="P230_VirtualThreadAndThreadLocal" target="21" />
+      <module name="P231_IntroScopedValues1" target="21" />
+      <module name="P231_IntroScopedValues2" target="21" />
+      <module name="P231_IntroScopedValues3" target="21" />
+      <module name="P231_IntroScopedValues4" target="21" />
+      <module name="P232_ScopedValueAndExecutorService" target="21" />
+      <module name="P233_ChainRebindScopedValues" target="21" />
+      <module name="P234_ScopedValueAndStructuredTaskScope" target="21" />
+      <module name="P235_SemaphoreVsExecutor" target="21" />
+      <module name="P236_AvoidPinningViaLocking" target="21" />
+      <module name="P237_VirtualThreadProducerConsumer" target="21" />
+      <module name="P238_FixedVirtualThreadProducerConsumer" target="21" />
+      <module name="P239_IncVirtualThreadProducerConsumer" target="21" />
+      <module name="P23_GetDoubleParts" target="21" />
+      <module name="P240_VirtualThreadsHttpServer" target="21" />
+      <module name="P241_CompletableFutureAndVirtualThreads" target="21" />
+      <module name="P242_VirtualThreadsWaitNotify1" target="21" />
+      <module name="P242_VirtualThreadsWaitNotify2" target="21" />
+      <module name="P242_VirtualThreadsWaitNotify3" target="21" />
+      <module name="P24_DoubleIsInteger" target="21" />
+      <module name="P24_DoubleIsIntegerBenchmark" target="21" />
+      <module name="P255_LoggingGC" target="21" />
+      <module name="P25_MultiplyHigh" target="21" />
+      <module name="P261_BlockingEchoClient" target="21" />
+      <module name="P261_BlockingEchoServer" target="21" />
+      <module name="P262_NonBlockingEchoClient" target="21" />
+      <module name="P262_NonBlockingEchoServer" target="21" />
+      <module name="P263_BlockingEchoServer" target="21" />
+      <module name="P263_ConnectedClient" target="21" />
+      <module name="P263_ConnectionlessClient" target="21" />
+      <module name="P265_NetworkInterface" target="21" />
+      <module name="P266_MulticastClient" target="21" />
+      <module name="P266_MulticastServer" target="21" />
+      <module name="P267_BlockingEchoClientKEM" target="21" />
+      <module name="P267_BlockingEchoServerKEM" target="21" />
+      <module name="P26_FloorCeilModulus" target="21" />
+      <module name="P271_ProgrammaticSWS" target="21" />
+      <module name="P271_ProgrammaticSWSExecutor" target="21" />
+      <module name="P271_ProgrammaticSWSFileHandler" target="21" />
+      <module name="P271_ProgrammaticSWSFilters" target="21" />
+      <module name="P272_ProgrammaticSWSAdaptRequest" target="21" />
+      <module name="P273_ProgrammaticSWSComplementHandler" target="21" />
+      <module name="P274_SWSInMemoryFileSystem" target="21" />
+      <module name="P275_SWSZipFileSystem" target="21" />
+      <module name="P276_SWSJavaRuntimeDirectory" target="21" />
+      <module name="P27_CountPrimeNumbers" target="21" />
+      <module name="P27_PrimeFactors" target="21" />
+      <module name="P28_SquareRootBabylonian" target="21" />
+      <module name="P29_RoundFloatNumber" target="21" />
+      <module name="P30_ClampingBetweenMinMax" target="21" />
+      <module name="P31_MulitplyTwoIntegers" target="21" />
+      <module name="P32_UsingTau" target="21" />
+      <module name="P33_PRNGFindAll" target="21" />
+      <module name="P33_PRNGFindByProperty" target="21" />
+      <module name="P33_PRNGSelectViaOf" target="21" />
+      <module name="P34_FillArrayRandomData" target="21" />
+      <module name="P35_InfiniteStreamOfRndGenerators" target="21" />
+      <module name="P36_LegacyRndFromRandomGenerator" target="21" />
+      <module name="P37_ThreadSafeRandomGenerator" target="21" />
+      <module name="P38_AsciiVsUnicode" target="21" />
+      <module name="P38_Emoji" target="21" />
+      <module name="P38_ReadingWritingFileUTF8" target="21" />
+      <module name="P38_StringToBinaryEncodings" target="21" />
+      <module name="P39_CheckIndexSubRangeZeroLength" target="21" />
+      <module name="P40_StringIndentity" target="21" />
+      <module name="P41_UnamedClassesMain" target="21" />
+      <module name="P42_SnippetsInJavadoc" target="21" />
+      <module name="P42_SnippetsInJavadocPreJDK18" target="17" />
+      <module name="P43_InvokeDefaultMethodsJDK16" target="21" />
+      <module name="P43_InvokeDefaultMethodsJDK8" target="1.8" />
+      <module name="P43_InvokeDefaultMethodsJDK9" target="11" />
+      <module name="P44_ByteToHexString" target="21" />
+      <module name="P45_InnerClassesAndStatics" target="21" />
+      <module name="P46_AnonymousClassesAndStatics" target="21" />
+      <module name="P47_ErasureBridge" target="21" />
+      <module name="P47_ErasureGeneric" target="21" />
+      <module name="P47_ErasureHeapPollution" target="21" />
+      <module name="P47_ErasureVsOverloading" target="21" />
+      <module name="P47_PolymorphicOverloading" target="21" />
+      <module name="P48_XlintDefaultConstructor" target="21" />
+      <module name="P49_ReceiverParameter" target="21" />
+      <module name="P50_ImmutableStack" target="21" />
+      <module name="P51_CommonStringMistake" target="21" />
+      <module name="P52_Common5NPE" target="21" />
+      <module name="P52_WorkingAroundNPE" target="21" />
+      <module name="P53_YieldStatementBlocks" target="21" />
+      <module name="P53_YieldSwitchExpression" target="21" />
+      <module name="P54_CaseNullClauseInSwitch" target="21" />
+      <module name="P55_EqualOperatorVsEquals" target="21" />
+      <module name="P56_ClassicInstanceof" target="21" />
+      <module name="P58_TypePatternMatchingInstanceof" target="21" />
+      <module name="P59_BindingVariableScopeInstanceof" target="21" />
+      <module name="P60_RewritingEqualsTypePatternInstanceof" target="21" />
+      <module name="P61_TypePatternInstanceofGenerics" target="21" />
+      <module name="P62_TypePatternInstanceofStream" target="21" />
+      <module name="P63_TypePatternMatchingSwitch" target="21" />
+      <module name="P64_GuardedPatternsSwitch1" target="21" />
+      <module name="P64_GuardedPatternsSwitch1JDK17" target="17" />
+      <module name="P64_GuardedPatternsSwitch2" target="21" />
+      <module name="P64_GuardedPatternsSwitch2JDK17" target="17" />
+      <module name="P65_TypePatternSwitchDominance" target="21" />
+      <module name="P66_CompletenessInSwitchJDK20" target="20" />
+      <module name="P66_CompletenessInSwitchJDK21" target="21" />
+      <module name="P67_UnconditionalPatterns" target="21" />
+      <module name="P67_UnconditionalPatternsJDK17" target="17" />
+      <module name="P68_PeriodOfTheDay" target="21" />
+      <module name="P69_DateToYearMonth" target="21" />
+      <module name="P70_IntToYearMonth" target="21" />
+      <module name="P71_YearWeekToDate" target="21" />
+      <module name="P72_LeapYear" target="21" />
+      <module name="P73_QuarterOfDate" target="21" />
+      <module name="P74_FirstLastDayOfQuarter" target="21" />
+      <module name="P75_MonthFromQuarter" target="21" />
+      <module name="P76_PregnancyDueDateCalculator" target="21" />
+      <module name="P77_Stopwatch" target="21" />
+      <module name="P78_FromMidnightToNow" target="21" />
+      <module name="P79_SplitDateInEqualIntervals" target="21" />
+      <module name="P80_SystemUTCVsSystemDefaultZone" target="21" />
+      <module name="P81_WeekDayName" target="21" />
+      <module name="P82_FirstLastDayOfYear" target="21" />
+      <module name="P83_FirstLastDayOfWeek" target="21" />
+      <module name="P84_MiddleOfTheMonth" target="21" />
+      <module name="P85_QuartersBetweenTwoDates" target="21" />
+      <module name="P86_ConvertCalendarToLocalDateTime" target="21" />
+      <module name="P87_WeeksBetweenTwoDates" target="21" />
+      <module name="P88_SimpleRecord" target="21" />
+      <module name="P89_RecordCanonicalCntr" target="21" />
+      <module name="P90_EnrichedRecord" target="21" />
+      <module name="P92_RecordMultipleCntrs" target="21" />
+      <module name="P93_RecordAndInterfaces" target="21" />
+      <module name="P94_RecordSerialization" target="21" />
+      <module name="P94_RefactoringSerialization" target="21" />
+      <module name="P95_RecordCanonicalCntrReflection" target="21" />
+      <module name="P96_UsingRecordsInStreams" target="21" />
+      <module name="P97_RecordPatternInstanceof" target="21" />
+      <module name="P98_RecordPatternSwitch" target="21" />
+      <module name="P99_RecordPatternInstanceofGuarded" target="21" />
+      <module name="P99_RecordPatternSwitchGuarded" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="P66_CompletenessInSwitchJDK20" options="--enable-preview" />
+    </option>
+  </component>
+</project>
